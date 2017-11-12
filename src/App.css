@@ -172,3 +172,15 @@ body, .app {
   text-align: center;
   font-size: 0.8em;
 }
+
+
+
+/* Loading */
+
+.loading {
+    color: #f0f;
+}
+
+.loading--local{
+    color: #2e7c31;
+}
